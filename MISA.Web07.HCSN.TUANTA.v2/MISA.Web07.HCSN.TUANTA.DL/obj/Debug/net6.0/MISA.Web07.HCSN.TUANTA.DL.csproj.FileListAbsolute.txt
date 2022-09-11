@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.AssemblyInfo.cs
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.deps.json
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.pdb
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.pdb
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.csproj.CopyComplete
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\refint\MISA.Web07.HCSN.TUANTA.DL.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.DL.pdb
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.DL\obj\Debug\net6.0\ref\MISA.Web07.HCSN.TUANTA.DL.dll

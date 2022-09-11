@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.deps.json
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\bin\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.pdb
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.AssemblyInfo.cs
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\refint\MISA.Web07.HCSN.TUANTA.Common.dll
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\MISA.Web07.HCSN.TUANTA.Common.pdb
+C:\Users\Acer\Desktop\MISA_TEAMWORK\Back-end\MISA.Web07.HCSN.TUANTA.v2\MISA.Web07.HCSN.TUANTA.Common\obj\Debug\net6.0\ref\MISA.Web07.HCSN.TUANTA.Common.dll
